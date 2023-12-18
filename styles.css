@@ -161,6 +161,8 @@
   height: 85vh;
   background-color: var(--white);
   margin-bottom: 5vh;
+  border-radius: 20px 10px 0 0;
+
 }
 
 .blog h2 {
