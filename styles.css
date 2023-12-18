@@ -32,7 +32,7 @@
   padding-right: 5vw;
 }
 /* .Introduction{
-    background: url('./images/bg-intro-mobile.svg') no-repeat;
+    background-color: rgb(247,247,247);
 } */
 .Intro {
   display: flex;
@@ -123,7 +123,7 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  background-color: var(--light-grayish-blue);
+  background-color: rgb(247,247,247);
 }
 
 .About h2 {
@@ -146,7 +146,7 @@
   line-height: 1.7;
   color: var(--grayish-blue);
   width: 80vw;
-  margin-bottom: 5vh;
+  /* margin-bottom: 5vh; */
 }
 
 .blog {
@@ -154,6 +154,7 @@
   flex-direction: column;
   align-items: center;
   background-color: var(--light-grayish-blue);
+  padding-top: 5vh;
 }
 
 .blog .articleBox {
@@ -439,7 +440,7 @@ svg {
 }
 
   .About .container {
-    height: 70vh;
+    height: 55vh;
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
@@ -450,7 +451,7 @@ svg {
 
   .About .container .box {
     width: 7vw;
-    height: 70vh;
+    height: 20vh;
     margin-top: 10vh;
     margin-right: 15vw;
     display: flex;
@@ -468,7 +469,7 @@ svg {
     width: 15vw;
     text-align: left;
     margin: 0;
-    margin-bottom: 10vh;
+    /* margin-bottom: 10vh; */
   }
   .blog{
     margin: 0;
