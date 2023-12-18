@@ -157,7 +157,7 @@
 }
 
 .blog .articleBox {
-  height: 80vh;
+  height: 85vh;
   background-color: var(--white);
   margin-bottom: 5vh;
 }
@@ -181,7 +181,7 @@
   padding-top: 3vh;
 }
 .blog .container .articleBox p {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   line-height: 1.5;
   color: var(--grayish-blue);
   padding-top: 5px;
@@ -508,13 +508,11 @@ svg {
     justify-content: flex-start;
     align-items: flex-start;
     padding-left: 2vw;
-    /* padding-bottom: 5vh; */
-    /* margin-bottom: 5vh; */
+    /* padding-bottom: 5vh;
+    margin-bottom: 5vh; */
     font-size: 0.9rem;
   }
-  .blog .container .articleBox .blog-desc p{
-    font-size: 1rem;
-  }
+  
 
 
   .blog .container .articleBox .blog-desc .blog-title{
