@@ -168,11 +168,11 @@
   color: var(--dark-blue);
 }
 .blog img {
-  margin-top: 3vh;
-  margin-right: 3vw;
+  margin-top: 0;
+  
   height: 40vh;
   width: 85vw;
-  padding-left: 3vw;
+  
   border-radius: 20px 10px 0 0;
 }
 .blog-desc {
