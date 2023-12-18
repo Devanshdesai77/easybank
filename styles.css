@@ -512,6 +512,11 @@ svg {
     /* margin-bottom: 5vh; */
     font-size: 0.9rem;
   }
+  .blog .container .articleBox .blog-desc p{
+    font-size: 1rem;
+  }
+
+
   .blog .container .articleBox .blog-desc .blog-title{
     width: 14vw;
   }
