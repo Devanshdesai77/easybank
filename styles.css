@@ -146,7 +146,7 @@
   line-height: 1.7;
   color: var(--grayish-blue);
   width: 80vw;
-  /* margin-bottom: 5vh; */
+  margin-bottom: 5vh;
 }
 
 .blog {
