@@ -397,15 +397,17 @@ svg:hover path {
   .Introduction .Images .bg-desktop {
     display: flex;
     width: 70vw;
-    height: 125vh;
+    height: 120vh;
     position: relative;
-    bottom: 18vh;
+    bottom: 20vh;
+    padding-bottom: 2vh;
     /* left: 65vh; */
     z-index: 0;
   }
   .Introduction .Intro {
     margin-top: 18vh;
     display: flex;
+    padding-bottom: 5vh;
   }
 
   .Introduction .Intro .btn {
